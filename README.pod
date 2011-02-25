@@ -1,0 +1,6 @@
+=pod
+
+=head2 HelloWorld ServerControl Extension
+
+This is a simple ServerControl Extension to demonstrate howto extend ServerControl.
+
